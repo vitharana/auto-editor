@@ -20,8 +20,14 @@ auto-editor example.mp4 --export premiere
 
 Auto-Editor can also export to:
 
-DaVinci Resolve with --export resolve
-Final Cut Pro with --export final-cut-pro
-ShotCut with --export shotcut
-Individual media clips with --export clip-sequence
+DaVinci Resolve with 
+--export resolve
+
+Final Cut Pro with 
+--export final-cut-pro
+
+ShotCut with
+--export shotcut
+
+
 
